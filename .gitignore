@@ -1,0 +1,6 @@
+# ignore for bindmound-sample-1 dir
+_site
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+vendor
