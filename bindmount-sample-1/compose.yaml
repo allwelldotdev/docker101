@@ -1,0 +1,7 @@
+services:
+  jekyll-demo:
+    image: bretfisher/jekyll-serve:latest
+    ports:
+      - "80:4000"
+    volumes:
+      - .:/site
